@@ -6,7 +6,7 @@
 <b>pip install pytelegrambotapi</b>
 
 После этого, указать полученный от @BotFather токен в переменную bot.<br>
-<b>bot = telebot.TeleBot('токен');
+<b>bot = telebot.TeleBot('токен');</b>
 
 Запустить можно на локальной машине.<br>
 <b>python ./app.py</b>
